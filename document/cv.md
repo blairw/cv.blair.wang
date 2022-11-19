@@ -73,8 +73,8 @@ Contact details:
 
 **10 Minute I.S. Paper (TMISP) (www.tmisp.org), since 2020:**
 
-- In 2020, I launched a podcast where I summarise Information Systems (IS) research papers in 10 minutes or less. I figured that this would be beneficial for my own awareness of the latest research as well as providing a useful resource for other members of the IS scholarly community
-- This podcast has 96 listeners on Spotify and has been praised in the IS scholarly community:
+- In 2020, I launched a podcast where I summarise Information Systems (IS) research papers in 10 minutes or less. I figured that this would be beneficial for my own awareness of the latest research as well as providing a useful resource for other members of the IS scholarly community.
+- This podcast has 156 followers on Spotify and has been praised in the IS scholarly community:
 	- _"Your podcast is a fantastic education device that I will gladly share with my students."_ - Dr. Hannes Rothe, Freie Universität Berlin (public post on LinkedIn) [(link)](https://www.linkedin.com/posts/hannes-rothe-61a6b951_ep-11-what-happens-to-shadow-it-f%C3%BCrstenau-activity-6792711900267376640-Vl_7).
 	- _"Just listened to the episode. Blair Wang is such a gifted science communicator!"_ &mdash; Prof. Till Winkler, FernUniversität in Hagen / Copenhagen Business School (public comment on LinkedIn) [(link)](https://www.linkedin.com/feed/update/urn:li:activity:6792711900267376640?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6792711900267376640%2C6794383924693934080)).
 	- _"Blair's podcast is a great way to keep up with the latest Information Systems research. Thank you for driving this initiative forward and for making Information Systems research accessible ‘on the go’!"_ &mdash; Dr. Janine Hacker, Universität Liechtenstein (public post on LinkedIn) [(link)](https://www.linkedin.com/posts/janine-hacker-752b4741_web-conferencing-affordances-and-constraints-activity-6723819559398187009-51u9).
