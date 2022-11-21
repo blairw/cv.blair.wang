@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-I am a Lecturer (Level B) in Business Information Systems at the University of Sydney Business School.
+Dr. Blair Wang (PhD, AFHEA) is a Lecturer in Business Information Systems (Level B) at the University of Sydney Business School.
 
 Contact details:
 
@@ -15,7 +15,7 @@ Contact details:
 ## 2. Publication Record
 
 - **Wang B.** & Prester J., 2022, 'The Performative and Interpretive Labour of Videoconferencing: Findings from a Literature Review on 'Zoom' Fatigue', paper to be presented at the International Conference on Information Systems (ICIS), Copenhagen (Denmark), paper 1441.
-- **Wang B.**, 2022, 'Programming for Qualitative Data Analysis: Towards a YAML Workflow', paper to be presented at the Australasian Conference on Information Systems (ACIS), Melbourne (Australia).
+- **Wang B.**, 2022, 'Programming for Qualitative Data Analysis: Towards a YAML Workflow', paper to be presented at the Australasian Conference on Information Systems (ACIS), Melbourne (Australia), paper 30.
 - **Wang B.**, Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2020, 'Beyond the Factory Paradigm: Digital Nomadism and the Digital Future(s) of Knowledge Work Post-COVID-19', _Journal of the Association for Information Systems_ (_JAIS_), 21(6), pp. 1379-1401.
 - **Wang B.**, Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2019, 'Digital Nomadism and the Market Economy: Resistance and Compliance', paper presented at the International Conference on Information Systems (ICIS), Munich (Germany), paper 1711.
 - Boell S. & **Wang B.**, 2019, 'www&period;litbaskets.io, an IT Artifact Supporting Exploratory Literature  Searches for Information Systems Research’, paper presented at the Australasian Conference on Information Systems (ACIS), Perth (Australia).
