@@ -7,12 +7,66 @@ Dr. Blair Wang (PhD, AFHEA) is a Lecturer in Business Information Systems (Level
 Contact details:
 
 - Email address: hello@blair&period;wang
-- Online portfolio: www&period;blair.wang
+- Online portfolio: www.blair.wang
 - ORCID: 0000-0002-2194-5623
 
 &emsp;
 
-## 2. Publication Record
+## 2. Academic Appointments
+
+- Lecturer in Business Information Systems - The University of Sydney, 2022
+- Associate Lecturer (PhD Teaching Fellow) - UNSW Sydney, 2020-2021
+
+&emsp;
+
+## 3. Teaching Record
+
+**The University of Sydney (2018-present):**
+
+- Lecturer and Unit of Study Coordinator for _INFS1020 Working in Digital Ecosystems_ (2022-present)
+	- Cohort of approx. 100 students per semester
+	- Undergraduate course introducing Information Systems concepts to Bachelor of Commerce (BCom) students and students from other Faculties interested in digital work
+	- Previously Tutor (2018-2021), for which I received a Dean's Citation for Tutoring [(link)](https://awards.blair.wang/deanscitation-blairwang.pdf)
+
+- Tutor for _INFS6060 Digital Work Practices_ (2021)
+	- Postgraduate course introducing Information Systems concepts to Master of Commerce (MCom) students
+	- I developed and delivered tutorial activities and summary materials
+
+**UNSW Sydney (2018-2021):**
+
+- Lecturer for Charge (LiC) for _INFS2822/INFS5715 Programming for Data Analytics_ (2020-2021)
+	- Cohort of approx. 100 students per semester
+	- Undergraduate (INFS2822) and postgraduate (INFS5715) courses on Shell (bash/zsh), Python &
+	HTML/CSS/JavaScript programming
+	- As the Lecturer for Charge, I developed this course 'from scratch' during the COVID-19 pandemic at the request of the School’s director of education, for both on-campus and online delivery
+	- Most recent (Term 3, 2021) student experience survey score of **5.72** / 6.00 (UNSW average: 5.38)
+
+- Lecturer in Charge (LiC) for _INFS2605 Intermediate Business Programming_ (2019-2021)
+	- Cohort of approx. 150 students per semester
+	- Undergraduate course on Java programming, including SQL and JavaFX Graphical User Interfaces
+	- As the LiC, I managed this course’s lifecycle including designing assessments, leading the tutor team, updating the course content with new concepts and technologies (e.g., Quality Assurance concepts, Intellectual Property concepts, version control and project management using GitHub), and taking responsibility for the unanticipated transition to online teaching during COVID-19
+	- Most recent (Term 1, 2021) student experience survey score of **5.76** / 6.00 (UNSW average: 5.34)
+
+- Guest Lecturer for _INFS4887 Business Research Methods_ (2021)
+	- Undergraduate course for Honours students undertaking research in Information Systems
+	- I co-delivered guest lectures and facilitated workshop discussions on literature review and writing techniques
+
+- Guest Lecturer for _INFS5987 Theoretical Foundations of Information Systems_ (2021)
+	- Postgraduate course for PhD candidates undertaking research in Information Systems
+	- I co-delivered a guest lecture on Critical Theory and Critical Research in Information Systems
+
+- Guest Lecturer for _INFS5978 Accounting Information Systems_ (2018-2019)
+	- Postgraduate course introducing Information Systems concepts to Accounting students
+	- I delivered guest lectures on cybersecurity concepts
+
+- Sessional Tutor (2018-2019)
+	- Tutor for _COMM5011 Business Data Analysis_ (2019) (postgraduate course)
+	- Tutor for _INFS3617 Networking and Cybersecurity_ (2018) (undergraduate course)
+	- Tutor for _INFS1609 Fundamentals of Business Programming_ (2018) (undergraduate course)
+
+&emsp;
+
+## 4. Publication Record
 
 - **Wang B.** & Prester J., 2022, 'The Performative and Interpretive Labour of Videoconferencing: Findings from a Literature Review on 'Zoom' Fatigue', paper to be presented at the International Conference on Information Systems (ICIS), Copenhagen (Denmark), paper 1441.
 - **Wang B.**, 2022, 'Programming for Qualitative Data Analysis: Towards a YAML Workflow', paper to be presented at the Australasian Conference on Information Systems (ACIS), Melbourne (Australia), paper 30.
@@ -25,51 +79,7 @@ Contact details:
 
 &emsp;
 
-## 3. Teaching Record
-
-**The University of Sydney (2018-present):**
-
-- Lecturer and Unit of Study Coordinator for _INFS1020 Working in Digital Ecosystems_ (2022-present)
-	- Undergraduate course introducing Information Systems concepts to Bachelor of Commerce (BCom) students and students from other Faculties interested in digital work
-	- Previously Tutor (2018-2021), for which I received a Dean's Citation for Tutoring [(link)](https://awards.blair.wang/deanscitation-blairwang.pdf)
-
-- Tutor for _INFS6060 Digital Work Practices_ (2021)
-	- Postgraduate course introducing Information Systems concepts to Master of Commerce (MCom) students
-	- I developed and delivered tutorial activities and summary materials
-
-**UNSW Sydney (2018-2021):**
-
-- Lecturer for Charge (LiC) for _INFS2822/INFS5715 Programming for Data Analytics_ (2020-2021)
-	- Undergraduate (INFS2822) and postgraduate (INFS5715) courses on Shell (bash/zsh), Python &
-	HTML/CSS/JavaScript programming
-	- As the Lecturer for Charge, I developed this course during the COVID-19 pandemic at the request of the School’s director of education, for both on-campus and online delivery
-	- Most recent (Term 3, 2021) student experience survey score of **5.72** / 6.00 (UNSW average: 5.38)
-
-- Lecturer in Charge (LiC) for _INFS2605 Intermediate Business Programming_, (2019-2021)
-	- Undergraduate course on Java programming, including SQL and JavaFX Graphical User Interfaces
-	- As the LiC, I managed this course’s lifecycle including designing assessments, leading the tutor team, updating the course content with new concepts and technologies (e.g., Quality Assurance concepts, Intellectual Property concepts, version control and project management using GitHub), and taking responsibility for the unanticipated transition to online teaching during COVID-19
-	- Most recent (Term 1, 2021) student experience survey score of **5.76** / 6.00 (UNSW average: 5.34)
-
-- Guest Lecturer for _INFS4887 Business Research Methods_, 2021
-	- Undergraduate course for Honours students undertaking research in Information Systems
-	- I co-delivered guest lectures and facilitated workshop discussions on literature review and writing techniques
-
-- Guest Lecturer for _INFS5987 Theoretical Foundations of Information Systems_, 2021
-	- Postgraduate course for PhD candidates undertaking research in Information Systems
-	- I co-delivered a guest lecture on Critical Theory and Critical Research in Information Systems
-
-- Guest Lecturer for _INFS5978 Accounting Information Systems_, 2018-2019
-	- Postgraduate course introducing Information Systems concepts to Accounting students
-	- I delivered guest lectures on cybersecurity concepts
-
-- Sessional Tutor, 2018-2019
-	- Tutor for _COMM5011 Business Data Analysis_, 2019 (postgraduate course)
-	- Tutor for _INFS3617 Networking and Cybersecurity_, 2018 (undergraduate course)
-	- Tutor for _INFS1609 Fundamentals of Business Programming_, 2018 (undergraduate course)
-
-&emsp;
-
-## 4. Academic Engagement Activities
+## 5. Academic Engagement Activities
 
 **10 Minute I.S. Paper (TMISP) (www.tmisp.org), since 2020:**
 
@@ -82,13 +92,19 @@ Contact details:
 
 **Research Peer Reviewer, since 2018:**
 
+- _Australasian Journal of Information Systems_ (_AJIS_), 2022
+- _Business and Information Systems Engineering_ (_BISE_), 2022
+- _European Journal of Information Systems_ (_EJIS_), 2022
+- _Information Systems Journal_ (_ISJ_), 2021-2022
+- _Information Technology & People_ (_IT&P_), 2022
+- _Information Technology & Tourism_, 2019
+- _Journal of the Association for Information Systems_ (_JAIS_), 2022
 - _Journal of Information Technology_ (_JIT_), 2021
-- _Information Systems Journal_ (ISJ), 2021
+- _Journal of Strategic Information Systems_ (_JSIS_), 2022
 - International Conference on Information Systems (ICIS), since 2019
 - European Conference on Information Systems (ECIS), since 2019
 - Pacific Asia Conference on Information Systems (PACIS), since 2019
 - Australasian Conference on Information Systems (ACIS), since 2018
-- _Information Technology & Tourism_ journal, 2019
 - Book Reviewer for Emerald Publishing, 2019-2020
 
 **Academic Service for University of Sydney, 2022-present:**
@@ -114,7 +130,7 @@ Contact details:
 
 &emsp;
 
-## 5. Professional Development
+## 6. Professional Development
 
 - Associate Fellow of Higher Education Academy (AFHEA) &mdash; Advance HE (via UNSW), 2020 [(link)](https://awards.blair.wang/afhea-blairwang.pdf)
 - Foundations of University Learning and Teaching (FULT) &mdash; UNSW, 2020 [(link)](https://awards.blair.wang/fultunsw-blairwang.pdf)
@@ -128,7 +144,7 @@ Contact details:
 
 &emsp;
 
-## 6. Education
+## 7. Education
 
 - PhD in Information Systems &mdash; UNSW, 2018-2022
 - Bachelor of Information Systems (Co-op, Honours) &mdash; UNSW, 2012-2015
@@ -136,7 +152,7 @@ Contact details:
 
 &emsp;
 
-## 7. Industry Experience
+## 8. Industry Experience
 
 - Software Engineer – Connections Australia, 2017
 - Client Success Executive – Datorama (now Salesforce), 2016-2017
