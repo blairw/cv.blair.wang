@@ -15,8 +15,8 @@ Dr. Blair Wang (PhD, AFHEA) is a Lecturer in Business Information Systems (Level
 - Five (5) years of experience teaching undergraduates (6 courses) and postgraduates (5 courses), at UNSW Sydney (2018-2021) and The University of Sydney (2022)
 	- Three (3) years of experience as Lecturer in Charge for both undergraduates (3 courses) and postgraduates (1 course), leading tutor teams of 2-5 tutors per semester
 	- Associate Fellow of Higher Education Academy (AFHEA) since 2020 [(link)](https://awards.blair.wang/afhea-blairwang.pdf)
-- Creator of the 10 Minute IS Paper (TMISP) podcast, [www.tmisp.org](https://www.tmisp.org/)
-- Lead Developer and Coauthor for the IS literature search tool [www.litbaskets.io](https://litbaskets.io/)
+- Creator of the _10 Minute IS Paper (TMISP)_ podcast, [www.tmisp.org](https://www.tmisp.org/)
+- Lead Developer of the _Litbaskets_ IS literature search tool, [www.litbaskets.io](https://litbaskets.io/)
 - Created and taught "INFS2822" at UNSW, an entirely new course on Python, Web Development and Automation for both undergraduate and postgraduate levels
 
 &emsp;
