@@ -4,18 +4,27 @@
 
 Dr. Blair Wang (PhD, AFHEA) is a Lecturer in Business Information Systems (Level B) at the University of Sydney Business School.
 
-Contact details:
+**Contact details:**
 
 - Email address: hello@blair&period;wang
 - Online portfolio: www.blair.wang
 - ORCID: 0000-0002-2194-5623
 
+**Highlights:**
+
+- Five (5) years of experience teaching undergraduates (6 courses) and postgraduates (5 courses), at UNSW Sydney (2018-2021) and The University of Sydney (2022)
+	- Three (3) years of experience as Lecturer in Charge for both undergraduates (3 courses) and postgraduates (1 course), leading tutor teams of 2-5 tutors per semester
+	- Associate Fellow of Higher Education Academy (AFHEA) since 2020 [(link)](https://awards.blair.wang/afhea-blairwang.pdf)
+- Creator of the 10 Minute IS Paper (TMISP) podcast, [www.tmisp.org](https://www.tmisp.org/)
+- Lead Developer and Coauthor for the IS literature search tool [www.litbaskets.io](https://litbaskets.io/)
+- Created and taught "INFS2822" at UNSW, an entirely new course on Python, Web Development and Automation for both undergraduate and postgraduate levels
+
 &emsp;
 
 ## 2. Academic Appointments
 
-- Lecturer in Business Information Systems - The University of Sydney, 2022
-- Associate Lecturer (PhD Teaching Fellow) - UNSW Sydney, 2020-2021
+- Lecturer &mdash; The University of Sydney, 2022
+- Associate Lecturer (PhD Teaching Fellow) &mdash; UNSW Sydney, 2020-2021
 
 &emsp;
 
@@ -25,6 +34,7 @@ Contact details:
 
 - Lecturer and Unit of Study Coordinator for _INFS1020 Working in Digital Ecosystems_ (2022-present)
 	- Cohort of approx. 100 students per semester
+	- Leading tutor team of approx. 3 tutors per semester
 	- Undergraduate course introducing Information Systems concepts to Bachelor of Commerce (BCom) students and students from other Faculties interested in digital work
 	- Previously Tutor (2018-2021), for which I received a Dean's Citation for Tutoring [(link)](https://awards.blair.wang/deanscitation-blairwang.pdf)
 
@@ -36,13 +46,15 @@ Contact details:
 
 - Lecturer for Charge (LiC) for _INFS2822/INFS5715 Programming for Data Analytics_ (2020-2021)
 	- Cohort of approx. 100 students per semester
-	- Undergraduate (INFS2822) and postgraduate (INFS5715) courses on Shell (bash/zsh), Python &
-	HTML/CSS/JavaScript programming
+	- Leading tutor team of approx. 2 tutors per semester
+	- Undergraduate (INFS2822) and postgraduate (INFS5715) courses on Python,
+	Web Development (HTML, CSS, JavaScript) and Automation (bash/zsh Shell)
 	- As the Lecturer for Charge, I developed this course 'from scratch' during the COVID-19 pandemic at the request of the School’s director of education, for both on-campus and online delivery
 	- Most recent (Term 3, 2021) student experience survey score of **5.72** / 6.00 (UNSW average: 5.38)
 
 - Lecturer in Charge (LiC) for _INFS2605 Intermediate Business Programming_ (2019-2021)
 	- Cohort of approx. 150 students per semester
+	- Leading tutor team of approx. 5 tutors per semester
 	- Undergraduate course on Java programming, including SQL and JavaFX Graphical User Interfaces
 	- As the LiC, I managed this course’s lifecycle including designing assessments, leading the tutor team, updating the course content with new concepts and technologies (e.g., Quality Assurance concepts, Intellectual Property concepts, version control and project management using GitHub), and taking responsibility for the unanticipated transition to online teaching during COVID-19
 	- Most recent (Term 1, 2021) student experience survey score of **5.76** / 6.00 (UNSW average: 5.34)
